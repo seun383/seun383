@@ -101,4 +101,48 @@
     <b>💜 Thanks for visiting my profile!</b>                                                                                                          
   </p>                                                                                                                                                 
                                                                                                                                                        
-  ---                   
+  ---                                                                                                                                                  
+  Troubleshooting tips:                                                                                                                                
+                                                                                                                                                       
+  1. Make sure the repository is Public (private repos won't show stats)                                                                               
+  2. Wait 1-2 minutes after committing for images to load                                                                                              
+  3. Try hard refreshing the page (Ctrl+Shift+R or Cmd+Shift+R)                                                                                        
+  4. The stats cards need some GitHub activity to display data                                                                                         
+                                                                                                                                                       
+  If images still don't load:                                                                                                                          
+  - The shields.io badges (colored tech badges) are very reliable and should always work                                                               
+  - The stats cards from github-readme-stats.vercel.app sometimes have delays for new accounts                                                         
+                                                                                                                                                       
+  Would you like me to simplify it further or try different image sources?                                                                             
+                                                                                                                                                       
+❯ i want to refer to my old account oluwaseun431 link https://github.com/Oluwaseun431                                                                  
+  Only this image did not display is just showing like this ![Typing                                                                                   
+  SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&l          
+  ines=Backend+Engineer;TypeScript+%7C+Python+%7C+PHP+%7C+Node.js;Building+Scalable+Solutions)                                                         
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                                                                                       
+⏺ The typing SVG URL has a broken space in it. Here's the fixed version:                                                                               
+                                                                                                                                                       
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&l
+  ines=Backend+Engineer;TypeScript+%7C+Python+%7C+PHP+%7C+Node.js;Building+Scalable+Solutions)](https://git.io/typing-svg)                             
+                                                                                                                                                       
+  The issue was l ines instead of lines (there was a space breaking it).                                                                               
+                                                                                                                                                       
+  ---                                                                                                                                                  
+  To reference your old account, add this section to your README:                                                                                      
+                                                                                                                                                       
+  ## 📂 Previous Work                                                                                                                                  
+                                                                                                                                                       
+  Check out my previous projects and contributions on my former account:                                                                               
+                                                                                                                                                       
+  [![Old GitHub](https://img.shields.io/badge/Previous_Account-Oluwaseun431-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com
+  /Oluwaseun431)                                                                                                                                       
+                                                                                                                                                       
+  Or a simpler version:                                                                                                                                
+                                                                                                                                                       
+  ---                                                                                                                                                  
+                                                                                                                                                       
+  > 🔗 **Note:** My previous work can be found at [@Oluwaseun431](https://github.com/Oluwaseun431)                                                     
+                                                                                                                                                       
+  ---                  
