@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm a software engineer.
 
-🔭 I’m currently working on building scalable backend systems, focusing on system and database design.
+🔭 I’m currently working on building scalable backend systems, with a strong focus on system and database design.
 
 🌱 I’m currently exploring serverless architectures, modern AWS cloud services, and expanding my DevOps skill set.
 
@@ -13,10 +13,10 @@ I'm a software engineer.
 💬 Ask me about system design, database optimization, or effective concurrency management.
 
 📫 How to reach me: oduwolejohn431@gmail.com
- | [LinkedIn Profile]
+ | LinkedIn Profile https://www.linkedin.com/in/oduwole-oluwaseun-9b79b0258/
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy sharing tech insights on Medium and playing FIFA on console.
 
-Welcome to my GitHub profile! Feel free to explore my projects and reach out if you’d like to connect.
+🔗 Previous GitHub account: github.com/Oluwaseun431
