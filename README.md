@@ -19,4 +19,4 @@ I'm a software engineer.
 
  Fun fact: I enjoy sharing tech insights on Medium and playing FIFA on console.
 
-🔗 Previous GitHub account: github.com/Oluwaseun431](https://github.com/seun383
+🔗 Previous GitHub account: github.com/Oluwaseun431(https://github.com/seun383](https://github.com/Oluwaseun431)
